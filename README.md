@@ -6,8 +6,8 @@
 <br><br>
 
 ### **Team Members**
-* Abdullahi Said, 
-* Matthew Newkirk,
+* Abdullahi Said 
+* Matthew Newkirk
 * James Reeves
 * Blake Cizek
 <br><br>
