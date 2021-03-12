@@ -2,7 +2,7 @@
 
 ## :dog: Doge Pirates of the Cryptobean :dog2:
 ***
-![](Images/doge.png)
+![](Images/doge.jpg)
 <br><br>
 
 ### **Team Members**
