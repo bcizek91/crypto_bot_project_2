@@ -70,13 +70,13 @@ The model has struggled to learn the rapid rise in BTC price towards the end of 
 Though valuable as a learning exercise, formulating the machine learning forecast problem as a regression problem is potentially a bad fit for the proposed usage of the model. Redefining the problem as classification would potentially be a better fit for the purpose of combining ML forecasting with other more traditional ALGO trade logic signals. We believe the model would be better at predicting the general directional price movements(up or down) rather than the exact amount. Another recommendation could be to increase the training period to include recent price spikes.
 
 **Loss vs. Epochs**
-<img src="Images/loss_chart.png" width="600" height="300">
+![](Images/loss_chart.png)
 **LSTM Prediction Results**
 
-<img src="Images/lstm_prediction.png" width="600" height="300">
+![](Images/lstm_prediction.png)
 <br><br>
 ## 5 Min Kraken
 ___
 * This script collects basic BTC ticker data every five minutes along with sentiment scores for recent posts about Bitcoin on both Twitter and r/Bitcoin. 
 * It then fits data into a pre-trained LSTM with the same construction as used during our analysis. The LSTM then attempts to predict the next value for BTC’s closing price.
-<img src="Images/5_min_kraken.png" width="600" height="300">
+![](Images/5_min_kraken.png)
